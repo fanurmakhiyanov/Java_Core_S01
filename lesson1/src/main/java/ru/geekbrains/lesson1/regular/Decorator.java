@@ -1,4 +1,4 @@
-package ru.gb.lesson1.regular;
+package ru.geekbrains.lesson1.regular;
 
 /**
  * Декаратор. Он декорирурет, то есть, накладывает на результат деокрации.

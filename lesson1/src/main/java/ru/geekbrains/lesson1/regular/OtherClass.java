@@ -1,4 +1,4 @@
-package ru.gb.lesson1.regular;
+package ru.geekbrains.lesson1.regular;
 
 /**
  * Другой, очень полезный класс приложения. Здесь мы можем описать
